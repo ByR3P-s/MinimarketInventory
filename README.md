@@ -1,0 +1,2 @@
+# MinimarketInventory
+Minimarket Inventory prototype
